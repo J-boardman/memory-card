@@ -1,6 +1,6 @@
 # Memory Card Game
 
-## [Live Page](https://j-boardman.github.io/memory-card)
+## [Live Page](https://j-boardman.github.io/memory-card/)
 
 ## Table of contents
 * [General info](#general-info)
