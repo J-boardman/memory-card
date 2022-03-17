@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.abf6c721.css",
+    "main.js": "/memory-card/static/js/main.51e92bf6.js",
+    "static/media/bulbasaur.png": "/memory-card/static/media/bulbasaur.53ed762221514b3f5b20.png",
+    "static/media/rattata.png": "/memory-card/static/media/rattata.29e4cb072e6e985990ed.png",
+    "static/media/eevee.png": "/memory-card/static/media/eevee.ebf7d9520d729f39a9b8.png",
+    "static/media/charmander.png": "/memory-card/static/media/charmander.7f7b6865a2664500802d.png",
+    "static/media/pidgey.png": "/memory-card/static/media/pidgey.ad27eaac41bbadb8c984.png",
+    "static/media/meowth.png": "/memory-card/static/media/meowth.d2c39834f33c78cbaa74.png",
+    "static/media/mankey.png": "/memory-card/static/media/mankey.6245d489da51a7436d4b.png",
+    "static/media/zubat.png": "/memory-card/static/media/zubat.3e1b88fe8106c8af1536.png",
+    "static/media/squirtle.png": "/memory-card/static/media/squirtle.d102e1b27622e2c862fa.png",
+    "static/media/pikachu.png": "/memory-card/static/media/pikachu.cb81c8c0d7c92787bb35.png",
+    "static/media/snorlax.png": "/memory-card/static/media/snorlax.e8675a98c3b6e94f8ec0.png",
+    "static/media/mega-ball.png": "/memory-card/static/media/mega-ball.580ed2f88e4eeea1044c.png",
+    "static/media/psyduck.png": "/memory-card/static/media/psyduck.91623800231a82892898.png",
+    "index.html": "/memory-card/index.html",
+    "main.abf6c721.css.map": "/memory-card/static/css/main.abf6c721.css.map",
+    "main.51e92bf6.js.map": "/memory-card/static/js/main.51e92bf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abf6c721.css",
+    "static/js/main.51e92bf6.js"
+  ]
+}
